@@ -1,9 +1,13 @@
 # cake-shop-react
-Cake shop on React
-**<h1>There will be documentation</h1>**
 
 
+**<h3>MERN stack</h3>**
+**<h3>MongoDB</h3>**
+**<h3>Express</h3>**
+**<h3>React</h3>**
+**<h3>NodeJs</h3>**
 
+<h2>ТЗ по проекту.</h2>
 1) Регистрация и вход
 принимает логин и пароль
 
