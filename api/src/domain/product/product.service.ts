@@ -11,4 +11,9 @@ export class ProductService {
     find() {
         return this.productModel.find()
     }
+
+    create(doc: Product) {
+        const product = new this.productModel(doc)
+        return product.save()
+    }
 }
