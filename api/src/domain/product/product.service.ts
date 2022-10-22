@@ -1,12 +1,14 @@
 import { Injectable } from '@nestjs/common';
+import { InjectModel } from '@nestjs/mongoose';
+import { Model } from 'mongoose';
+import {Product, ProductDocument} from "../../schema/product.schema";
 
 @Injectable()
 export class ProductService {
+    constructor(@InjectModel(Product.name) private productModel: Model<ProductDocument>) {
+    }
+
     find() {
-        // тут тип запрос к бд
-        return [
-            { id: 1, name: "Сметана", weight: 0.120, price: 145 },
-            { id: 2, name: "Майонез", weight: 0.500, price: 80 },
-        ];
+        return this.productModel.find()
     }
 }

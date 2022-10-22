@@ -20,15 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0346873-1238-4910-a315-b4591c586b9a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/api1/src/domain/product/product.controller.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api1/src/domain/product/product.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api1/src/domain/product/product.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/models/User.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/utils/checkAuth.ts" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +28,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/api1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2GBYNxnfoXjJ7EdDy2MvqezyPMT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -52,7 +44,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/api1/src/domain/product" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="ts.external.directory.path" value="C:\.bulhi\.work\bulhi\cake-shop-react\api\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -75,6 +67,7 @@
       <workItem from="1665863410586" duration="906000" />
       <workItem from="1665919427719" duration="90000" />
       <workItem from="1666461638098" duration="2796000" />
+      <workItem from="1666465854662" duration="998000" />
     </task>
     <servers />
   </component>
@@ -91,6 +84,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="271" key="FileChooserDialogImpl" timestamp="1665919516517">
