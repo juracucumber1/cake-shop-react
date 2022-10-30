@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0346873-1238-4910-a315-b4591c586b9a" name="Default Changelist" comment="" />
+    <list default="true" id="c0346873-1238-4910-a315-b4591c586b9a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +42,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/api1/src/domain/product" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/api/src/domain/product/dto" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="C:\.bulhi\.work\bulhi\cake-shop-react\api\node_modules\typescript\lib" />
   </component>
@@ -49,6 +51,7 @@
       <recent name="C:\.bulhi\.work\bulhi\cake-shop-react\api1\src\domain\product" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\.bulhi\.work\bulhi\cake-shop-react\api\src\domain\product\dto" />
       <recent name="C:\.bulhi\.work\bulhi\cake-shop-react\api1\src\domain\product" />
     </key>
   </component>
@@ -66,6 +69,11 @@
       <workItem from="1665919427719" duration="90000" />
       <workItem from="1666461638098" duration="2796000" />
       <workItem from="1666465854662" duration="2411000" />
+      <workItem from="1666545833053" duration="3908000" />
+      <workItem from="1666909601711" duration="1252000" />
+      <workItem from="1666940785040" duration="3404000" />
+      <workItem from="1667058474473" duration="1353000" />
+      <workItem from="1667124044256" duration="1710000" />
     </task>
     <servers />
   </component>
