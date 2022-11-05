@@ -20,7 +20,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0346873-1238-4910-a315-b4591c586b9a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/core/api/axiosinstance.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/service/api/Product.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/service/api/Recipe.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/shares/UIkit/InputProduct.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/shares/componet/AppLayout/AppLayout.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/shares/componet/AppLayout/AppLayout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/shares/componet/AppLayout/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/shares/componet/PageLayout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/shares/enum/Routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/shares/enum/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/shares/utils/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/shares/utils/querystring.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/shares/utils/weight.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/view/Product/Create/Create.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/view/Product/Create/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/view/Product/Edit/Edit.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/view/Product/Edit/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/view/Product/Id/Id.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/view/Product/Id/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/view/Product/Product.controller.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/view/Product/Root/Root.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/view/Product/Root/Root.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/view/Product/Root/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/view/Product/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/view/Recipe/Create/Create.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/view/Recipe/Create/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/view/Recipe/Edit/Edit.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/view/Recipe/Edit/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/view/Recipe/Id/Id.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/view/Recipe/Id/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/view/Recipe/Recipe.controller.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/view/Recipe/Root/Root.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/view/Recipe/Root/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/app/view/Recipe/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/declaration.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/environment/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +75,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="2GBYNxnfoXjJ7EdDy2MvqezyPMT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -41,19 +93,40 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/api/src/domain/product/dto" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/public" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.NodeInterpreter" value="$PROJECT_DIR$/../../../../Program Files/nodejs/node" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\.bulhi\.work\bulhi\cake-shop-react\api\node_modules" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
     <property name="ts.external.directory.path" value="C:\.bulhi\.work\bulhi\cake-shop-react\api\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\.bulhi\.work\bulhi\cake-shop-react" />
+      <recent name="C:\.bulhi\.work\bulhi\cake-shop-react\client\src\app\shares\componet\AppLayout" />
+      <recent name="C:\.bulhi\.work\bulhi\cake-shop-react\client\src" />
       <recent name="C:\.bulhi\.work\bulhi\cake-shop-react\api1\src\domain\product" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\.bulhi\.work\bulhi\cake-shop-react\api\src\domain\product\dto" />
-      <recent name="C:\.bulhi\.work\bulhi\cake-shop-react\api1\src\domain\product" />
+      <recent name="C:\.bulhi\.work\bulhi\cake-shop-react\client\public" />
+      <recent name="C:\.bulhi\.work\bulhi\cake-shop-react\client\src\app\view\Recipe" />
+      <recent name="C:\.bulhi\.work\bulhi\cake-shop-react\api\src\recipe\schemas" />
+      <recent name="C:\.bulhi\.work\bulhi\cake-shop-react\client" />
+      <recent name="C:\.bulhi\.work\bulhi\cake-shop-react\api\src\recipe\projections" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="NodeJSConfigurationType" nameIsGenerated="true" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -73,7 +146,11 @@
       <workItem from="1666909601711" duration="1252000" />
       <workItem from="1666940785040" duration="3404000" />
       <workItem from="1667058474473" duration="1353000" />
-      <workItem from="1667124044256" duration="3401000" />
+      <workItem from="1667124044256" duration="10554000" />
+      <workItem from="1667136066311" duration="1201000" />
+      <workItem from="1667137291469" duration="20134000" />
+      <workItem from="1667207092868" duration="14071000" />
+      <workItem from="1667655742346" duration="12436000" />
     </task>
     <servers />
   </component>
@@ -93,9 +170,110 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="271" key="FileChooserDialogImpl" timestamp="1665919516517">
-      <screen x="0" y="0" width="1920" height="1032" />
+    <state x="868" y="449" key="#ESLint" timestamp="1667216838795">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
+    <state x="868" y="449" key="#ESLint/2560.138.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1667216838795" />
+    <state x="219" y="59" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1667135735653">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="219" y="59" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1667135735653" />
+    <state x="652" y="265" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1667208378352">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="489" y="196" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1667151893355" />
+    <state x="652" y="265" key="#com.intellij.fileTypes.FileTypeChooser/2560.138.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1667208378352" />
+    <state x="495" y="47" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1667135708720">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="495" y="47" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824@0.0.1536.824" timestamp="1667135708720" />
+    <state x="789" y="291" key="FileChooserDialogImpl" timestamp="1667217402872">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="592" y="216" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1667147153095" />
     <state x="740" y="271" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1665919516517" />
+    <state x="789" y="291" key="FileChooserDialogImpl/2560.138.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1667217402872" />
+    <state width="1481" height="245" key="GridCell.Tab.0.bottom" timestamp="1667135741807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="245" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1667135741807" />
+    <state width="1481" height="245" key="GridCell.Tab.0.center" timestamp="1667135741807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="245" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1667135741807" />
+    <state width="1481" height="245" key="GridCell.Tab.0.left" timestamp="1667135741807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="245" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1667135741807" />
+    <state width="1481" height="245" key="GridCell.Tab.0.right" timestamp="1667135741807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="245" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1667135741807" />
+    <state width="1481" height="245" key="GridCell.Tab.1.bottom" timestamp="1667135741807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="245" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1667135741807" />
+    <state width="1481" height="245" key="GridCell.Tab.1.center" timestamp="1667135741807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="245" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1667135741807" />
+    <state width="1481" height="245" key="GridCell.Tab.1.left" timestamp="1667135741807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="245" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1667135741807" />
+    <state width="1481" height="245" key="GridCell.Tab.1.right" timestamp="1667135741807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="245" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1667135741807" />
+    <state width="1481" height="245" key="GridCell.Tab.2.bottom" timestamp="1667135741807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="245" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1667135741807" />
+    <state width="1481" height="245" key="GridCell.Tab.2.center" timestamp="1667135741807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="245" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1667135741807" />
+    <state width="1481" height="245" key="GridCell.Tab.2.left" timestamp="1667135741807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="245" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1667135741807" />
+    <state width="1481" height="245" key="GridCell.Tab.2.right" timestamp="1667135741807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="245" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1667135741807" />
+    <state width="1481" height="245" key="GridCell.Tab.3.bottom" timestamp="1667135741808">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="245" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1667135741808" />
+    <state width="1481" height="245" key="GridCell.Tab.3.center" timestamp="1667135741808">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="245" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1667135741808" />
+    <state width="1481" height="245" key="GridCell.Tab.3.left" timestamp="1667135741807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="245" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1667135741807" />
+    <state width="1481" height="245" key="GridCell.Tab.3.right" timestamp="1667135741808">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="245" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1667135741808" />
+    <state x="204" y="0" key="SettingsEditor" timestamp="1667217410805">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="153" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1667147227887" />
+    <state x="204" y="0" key="SettingsEditor/2560.138.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1667217410805" />
+    <state x="412" y="82" width="711" height="660" key="find.popup" timestamp="1667657494433">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="412" y="82" width="711" height="660" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1667657494433" />
+    <state x="549" y="111" width="948" height="891" key="find.popup/2560.138.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1667213792038" />
+    <state x="341" y="183" key="run.anything.popup" timestamp="1667661018998">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="341" y="183" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1667661018998" />
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1667133473843">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1667133473843" />
   </component>
 </project>
